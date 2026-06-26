@@ -11,7 +11,7 @@ Built as a university project for Pokhara University.
 ## Project Steps
 - [x] Step 1: LLM API Integration
 - [x] Step 2: Zero-Shot Prompting
-- [ ] Step 3: Few-Shot Prompting
+- [x] Step 3: Few-Shot Prompting
 - [ ] Step 4: Chain-of-Thought Prompting
 - [ ] Step 5: Role Prompting
 - [ ] Step 6: Prompt Templates
