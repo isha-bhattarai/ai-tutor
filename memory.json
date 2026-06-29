@@ -1,0 +1,15 @@
+{
+    "name": "issue",
+    "sessions": 4,
+    "topics_studied": [
+        "Image Processing",
+        "Cloud Computing",
+        "Simulation"
+    ],
+    "weak_topics": [
+        "Simulation"
+    ],
+    "strong_topics": [],
+    "last_seen": "2026-06-29",
+    "total_questions_asked": 6
+}
