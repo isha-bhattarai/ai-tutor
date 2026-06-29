@@ -14,7 +14,7 @@ Built as a university project for Pokhara University.
 - [x] Step 3: Few-Shot Prompting
 - [x] Step 4: Chain-of-Thought Prompting
 - [x] Step 5: Role Prompting
-- [ ] Step 6: Prompt Templates
+- [x] Step 6: Prompt Templates
 - [ ] Step 7: LangChain Chains
 - [ ] Step 8: Memory System
 - [ ] Step 9: Agents & Tools

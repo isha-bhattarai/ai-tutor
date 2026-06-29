@@ -12,7 +12,7 @@ load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Model to use — gemini-2.0-flash is free and current
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.1-flash-lite"
 
 # System instruction — the AI's personality/role
 SYSTEM = "You are a helpful and friendly academic tutor."
