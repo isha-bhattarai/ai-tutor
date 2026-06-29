@@ -16,7 +16,7 @@ Built as a university project for Pokhara University.
 - [x] Step 5: Role Prompting
 - [x] Step 6: Prompt Templates
 - [x] Step 7: LangChain Chains
-- [ ] Step 8: Memory System
+- [x] Step 8: Memory System
 - [ ] Step 9: Agents & Tools
 - [ ] Step 10: Final Integration
 
